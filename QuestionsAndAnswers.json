@@ -1,0 +1,422 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary goal of software maintenance?",
+      "answers": [
+        "1. To fix existing bugs only",
+        "2. To improve system performance and add new features",
+        "3. To completely rewrite the system",
+        "4. To document the software for new developers"
+      ],
+      "correct_ans": "2",
+      "difficulty": "2"
+    },
+    {
+      "question": "Which testing strategy uses graphs to simulate system behavior for test planning?",
+      "answers": [
+        "1. Control-flow testing",
+        "2. Data-flow testing",
+        "3. Black box testing",
+        "4. White box testing"
+      ],
+      "correct_ans": "3",
+      "difficulty": "3"
+    },
+    {
+      "question": "What is a common challenge in software project management?",
+      "answers": [
+        "1. Over-communication within the team",
+        "2. Keeping the project within budget and time constraints",
+        "3. Using the most advanced programming languages",
+        "4. Finding enough software to copy from"
+      ],
+      "correct_ans": "2",
+      "difficulty": "2"
+    },
+    {
+      "question": "What is a prototype?",
+      "answers": [
+        "1. Initial display of user interface",
+        "2. Testing process",
+        "3. Name of the last stage in production",
+        "4. all answers is incorrect"
+      ],
+      "correct_ans": "1",
+      "difficulty": "1"
+    },
+    {
+      "question": "Which is a key principle of Agile software development?",
+      "answers": [
+        "1. Comprehensive documentation over working software",
+        "2. Following a plan strictly",
+        "3. Customer collaboration over contract negotiation",
+        "4. Process and tools over individuals and interactions"
+      ],
+      "correct_ans": "3",
+      "difficulty": "1"
+    },
+    {
+      "question": "In software engineering, what is \u0027refactoring\u0027 primarily used for?",
+      "answers": [
+        "1. Adding new features",
+        "2. Improving the existing code without changing its functionality",
+        "3. Fixing bugs",
+        "4. Changing software functionality"
+      ],
+      "correct_ans": "2",
+      "difficulty": "2"
+    },
+    {
+      "question": "What does \u0027scalability\u0027 refer to in software engineering?",
+      "answers": [
+        "1. The ability to add new team members",
+        "2. The software\u0027s ability to handle increasing amounts of data",
+        "3. The size of the software",
+        "4. The cost of the software"
+      ],
+      "correct_ans": "2",
+      "difficulty": "2"
+    },
+    {
+      "question": "In a software development team, what is the role of a \u0027Scrum Master\u0027?",
+      "answers": [
+        "1. To write the most code",
+        "2. To manage the project budget",
+        "3. To facilitate Agile practices and remove impediments",
+        "4. To design the software\u0027s user interface"
+      ],
+      "correct_ans": "3",
+      "difficulty": "2"
+    },
+    {
+      "question": "What is \u0027continuous integration\u0027 in software development?",
+      "answers": [
+        "1. Keeping code integrated with customer needs",
+        "2. Regularly merging code changes into a shared repository",
+        "3. Constant communication with the client",
+        "4. Uninterrupted software development"
+      ],
+      "correct_ans": "2",
+      "difficulty": "2"
+    },
+    {
+      "question": "Which of the following best describes \u0027pair programming\u0027?",
+      "answers": [
+        "1. Two programmers working on different parts of the same project",
+        "2. Two programmers working together at one workstation",
+        "3. A programming competition between two developers",
+        "4. A mentoring session between a senior and junior programmer"
+      ],
+      "correct_ans": "2",
+      "difficulty": "1"
+    },
+    {
+      "question": "What is the main purpose of a \u0027code review\u0027?",
+      "answers": [
+        "1. To evaluate the coding skills of the programmer",
+        "2. To find and fix bugs and improve code quality",
+        "3. To determine the salary of the programmer",
+        "4. To measure the speed of coding"
+      ],
+      "correct_ans": "2",
+      "difficulty": "1"
+    },
+    {
+      "question": "What is \u0027technical debt\u0027?",
+      "answers": [
+        "1. The cost of additional resources needed for a project",
+        "2. The money paid to software developers",
+        "3. The cost of not fixing bugs in a software",
+        "4. The future cost incurred due to earlier quick fixes instead of proper solutions"
+      ],
+      "correct_ans": "4",
+      "difficulty": "2"
+    },
+    {
+      "question": "What is the purpose of regression testing?",
+      "answers": [
+        "1. To check for the introduction of new features",
+        "2. To ensure that changes do not introduce new faults",
+        "3. To test the system\u0027s performance under load",
+        "4. To validate the user interface"
+      ],
+      "correct_ans": "2",
+      "difficulty": "3"
+    },
+    {
+      "question": "Which of the following is an example of black box testing?",
+      "answers": [
+        "1. Testing based on code coverage",
+        "2. Testing based on the functionality without knowing the internal workings.",
+        "3. Testing that focuses exclusively on the user interface",
+        "4. Testing that requires an understanding of the software\u0027s algorithms"
+      ],
+      "correct_ans": "2",
+      "difficulty": "2"
+    },
+    {
+      "question": "What is a key characteristic of automated tests in software development?",
+      "answers": [
+        "1. They eliminate the need for manual testing",
+        "2. They are only used in white box testing",
+        "3. They allow tests to be run repeatedly over time to check for regressions",
+        "4. They are less reliable than manual tests"
+      ],
+      "correct_ans": "3",
+      "difficulty": "2"
+    },
+    {
+      "question": "What is architectural drift?",
+      "answers": [
+        "1. A new version of the software architecture",
+        "2. The process of updating the system\u0027s documentation",
+        "3. Introduction of major design decisions that do not align with the guiding architecture.",
+        "4. The physical movement of the development team to a new location"
+      ],
+      "correct_ans": "3",
+      "difficulty": "3"
+    },
+    {
+      "question": "What role do connectors play in software architecture?",
+      "answers": [
+        "1. They serve as the user interface components",
+        "2. They manage the database connections exclusively",
+        "3. They regulate interactions between components",
+        "4. They represent the software\u0027s deployment on hardware devices"
+      ],
+      "correct_ans": "3",
+      "difficulty": "2"
+    },
+    {
+      "question": "What is the primary advantage of Model Driven Engineering (MDE)?",
+      "answers": [
+        "1. It eliminates the need for software testing",
+        "2. It allows for consideration of systems at higher levels of abstraction and automatic code generation",
+        "3. It focuses exclusively on improving software aesthetics",
+        "4. It simplifies the manual coding process without generating code"
+      ],
+      "correct_ans": "2",
+      "difficulty": "3"
+    },
+    {
+      "question": "Sequence Diagram:",
+      "answers": [
+        "1. Shows the sequence of all operations in the system",
+        "2. Shows the sequence of interactions between the actors and the objects within a system",
+        "3. Shows the sequence of interactions only of the players",
+        "4. Show the sequence of interactions only of the objects"
+      ],
+      "correct_ans": "2",
+      "difficulty": "2"
+    },
+    {
+      "question": "Model Driven Engineering is (MDE)",
+      "answers": [
+        "1. is the engineering of all the UML diagrams",
+        "2. from this type of Engineering they started to know what models are",
+        "3. Is the same as computer science engineering",
+        "4. An approach to software development in which the main products of the development process are models."
+      ],
+      "correct_ans": "4",
+      "difficulty": "3"
+    },
+    {
+      "question": "Which diagram is a UML diagram?",
+      "answers": [
+        "1. ERD: Entity Relationship Diagram",
+        "2. DFD: Data Flow Diagram",
+        "3. Use case",
+        "4. All answers are incorrect"
+      ],
+      "correct_ans": "3",
+      "difficulty": "1"
+    },
+    {
+      "question": "What is the primary purpose of defining requirements in software development?",
+      "answers": [
+        "1. To decide the programming language to be used",
+        "2. To understand and define what the customer needs.",
+        "3. To finalize the software design",
+        "4. To estimate the cost of the project"
+      ],
+      "correct_ans": "2",
+      "difficulty": "2"
+    },
+    {
+      "question": "What are non-functional requirements in a software project?",
+      "answers": [
+        "1. Requirements that are not essential",
+        "2. Requirements related to the system\u0027s overall properties like security and performance",
+        "3. Requirements that are related to specific functionalities",
+        "4. Requirements that change during the project lifecycle"
+      ],
+      "correct_ans": "2",
+      "difficulty": "2"
+    },
+    {
+      "question": "What is a key goal of the contract survey?",
+      "answers": [
+        "1. To select the programming languages to be used",
+        "2. To ensure there is a mutual understanding of the documents between client and developers",
+        "3. To complete the software development ahead of schedule",
+        "4. To reduce the software\u0027s feature set"
+      ],
+      "correct_ans": "2",
+      "difficulty": "2"
+    },
+    {
+      "question": "Which factor does NOT affect the scope of a contract survey?",
+      "answers": [
+        "1. The marketing strategy for the software",
+        "2. The importance and size of the project",
+        "3. The complexity of the project",
+        "4. The experience level of the team"
+      ],
+      "correct_ans": "1",
+      "difficulty": "2"
+    },
+    {
+      "question": "What is the purpose of creating prototypes in the requirements analysis phase?",
+      "answers": [
+        "1. To provide a final version of the software",
+        "2. To understand user needs and test functionalities.",
+        "3. To define the software\u0027s database structure",
+        "4. To decide on the software\u0027s coding standards"
+      ],
+      "correct_ans": "2",
+      "difficulty": "2"
+    },
+    {
+      "question": "Which of the following best describes functional requirements?",
+      "answers": [
+        "1. General constraints and performance quality of the system",
+        "2. Specific actions or behaviors the system must perform",
+        "3. Regulations and ethical considerations external to the system",
+        "4. Development environments and programming languages used"
+      ],
+      "correct_ans": "2",
+      "difficulty": "2"
+    },
+    {
+      "question": "Why is Agile methodology considered effective in managing changing requirements?",
+      "answers": [
+        "1. Because it follows a strict plan with no changes allowed",
+        "2. Because it emphasizes on comprehensive documentation",
+        "3. Because it accommodates changes rapidly and focuses on incremental development",
+        "4. Because it completely eliminates the need for requirements"
+      ],
+      "correct_ans": "3",
+      "difficulty": "2"
+    },
+    {
+      "question": "What type of maintenance involves adapting the system to new environments?",
+      "answers": [
+        "1. Corrective maintenance",
+        "2. Adaptive maintenance",
+        "3. Perfective maintenance",
+        "4. Preventive maintenance"
+      ],
+      "correct_ans": "2",
+      "difficulty": "1"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of a maintenance programmer?",
+      "answers": [
+        "1. Must be able to diagnose and repair issues",
+        "2. Should only focus on adding new features",
+        "3. Requires excellent documentation skills",
+        "4. Must ensure changes do not introduce regression faults"
+      ],
+      "correct_ans": "2",
+      "difficulty": "2"
+    },
+    {
+      "question": "Why is maintenance programming considered challenging by most programmers?",
+      "answers": [
+        "1. It involves only simple, repetitive tasks",
+        "2. It is seen as less creative than initial development",
+        "3. It is often undervalued and poorly compensated",
+        "4. Maintenance tasks are straightforward and lack complexity"
+      ],
+      "correct_ans": "2",
+      "difficulty": "2"
+    },
+    {
+      "question": "Which of the following is NOT a focus of a proposal survey?",
+      "answers": [
+        "1. Clarifying and properly documenting the customer\u0027s requirements",
+        "2. Estimating the costs, resources, and time required",
+        "3. Finalizing the software development tools to be used",
+        "4. Identifying risks and settling formal aspects"
+      ],
+      "correct_ans": "3",
+      "difficulty": "2"
+    },
+    {
+      "question": "What is a key principle of Agile software development?",
+      "answers": [
+        "1. Extensive planning at the beginning of a project to ensure there are no changes in the requirements",
+        "2. Strong documentation is more important than working software",
+        "3. Regular adaptation to changing circumstances and user feedback",
+        "4. Complete each project phase before starting the next one without any overlap"
+      ],
+      "correct_ans": "3",
+      "difficulty": "1"
+    },
+    {
+      "question": "What is a key principle of Agile software development?",
+      "answers": [
+        "1.Extensive planning at the beginning of a project to ensure there are no changes in the requirements",
+        "2.Strong documentation is more important than working software",
+        "3.Regular adaptation to changing circumstances and user feedback",
+        "4.Complete each project phase before starting the next one without any overlap"
+      ],
+      "correct_ans": "3",
+      "difficulty": "1"
+    },
+    {
+      "question": "What is a key principle of Agile software development?",
+      "answers": [
+        "1.Extensive planning at the beginning of a project to ensure there are no changes in the requirements",
+        "2.Strong documentation is more important than working software",
+        "3.Regular adaptation to changing circumstances and user feedback",
+        "4.Complete each project phase before starting the next one without any overlap"
+      ],
+      "correct_ans": "3",
+      "difficulty": "1"
+    },
+    {
+      "question": "What is a key principle of Agile software development?",
+      "answers": [
+        "1.Extensive planning at the beginning of a project to ensure there are no changes in the requirements.",
+        "2.Strong documentation is more important than working software.",
+        "3.Regular adaptation to changing circumstances and user feedback",
+        "4.Complete each project phase before starting the next one without any overlap."
+      ],
+      "correct_ans": "3",
+      "difficulty": "1"
+    },
+    {
+      "question": "What is a key principle of Agile software development?",
+      "answers": [
+        "1.Extensive planning at the beginning of a project to ensure there are no changes in the requirements.",
+        "2.Strong documentation is more important than working software.",
+        "3.Regular adaptation to changing circumstances and user feedback.",
+        "4.Complete each project phase before starting the next one without any overlap."
+      ],
+      "correct_ans": "3",
+      "difficulty": "1"
+    },
+    {
+      "question": "What is a key principle of Agile software development?",
+      "answers": [
+        "1.Extensive planning at the beginning of a project to ensure there are no changes in the requirements.",
+        "2.Strong documentation is more important than working software.",
+        "3.Regular adaptation to changing circumstances and user feedback.",
+        "4.Complete each project phase before starting the next one without any overlap."
+      ],
+      "correct_ans": "3",
+      "difficulty": "1"
+    }
+  ]
+}
