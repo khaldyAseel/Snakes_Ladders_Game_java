@@ -17,7 +17,7 @@ Welcome to the Snakes and Ladders Game! This project is a Java implementation of
 
 Snakes and Ladders is a simple board game where players move their pieces according to dice rolls, encountering snakes and ladders that either send them back or advance them on the board. This project aims to provide an engaging and interactive version of the game, developed with a focus on clean code, modularity, and agile principles.
 
-## Features
+## Features 🚀
 
 - Classic Snakes and Ladders gameplay
 - User-friendly interface
@@ -67,7 +67,7 @@ This project was developed using the Agile methodology, which involves iterative
 - **Daily Stand-ups**: Regular meetings were held to discuss progress, challenges, and next steps.
 - **Backlog Management**: Features and tasks were tracked in a backlog, with priorities adjusted based on feedback and progress.
 
-### MVC Architecture
+### MVC Architecture 
 
 The application is structured according to the MVC (Model-View-Controller) design pattern:
 
